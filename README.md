@@ -1,2 +1,2 @@
-# my-repository
+# QUIZLET
 C++ project - MIPT
