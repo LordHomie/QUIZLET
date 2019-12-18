@@ -12,5 +12,7 @@ You are most likely familiar with some language learning platforms. For example,
 3- Edit any card.
 4- Card is shown with the non-native language side in front of the user, 
 then the user should press a button to show the translation to the native language.
-```
+
 All data is stored in .csv file format.
+```
+
