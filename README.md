@@ -8,7 +8,6 @@ You are most likely familiar with some language learning platforms. For example,
 ### Description
 ```
 1- User can add a new card at any point.
-
 2- Delete any card.
 
 3- Edit any card.
